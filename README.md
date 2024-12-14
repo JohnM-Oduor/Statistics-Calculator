@@ -1,4 +1,5 @@
-# Statistics-Calculator
+# Statistics Calculator
+
 - The Statistics Calculator is a simple web application that calculates statistical values such as mean, median, mode, range, variance, and standard deviation for a list of comma-separated numbers provided by the user.
 Statistics Calculator
  ![image](https://github.com/user-attachments/assets/88f76ed9-c2f2-46b1-9eea-fb9419fa3ed3)
